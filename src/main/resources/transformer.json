@@ -1,0 +1,6 @@
+{
+  "name": "hiding_transformer",
+  "class": "com.alibaba.datax.transformer.HidingTransformer",
+  "description": "Hiding transformer setting any value as default",
+  "developer": "build2last@github.com"
+}
